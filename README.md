@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **piyushmahajan.cse@gmail.com**
 
-- ⚡ Fun fact **I am Writer, Editor and Funny too**
+- ⚡ Fun fact **I am Writer, Editor and Comedian sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
