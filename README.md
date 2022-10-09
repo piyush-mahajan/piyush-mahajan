@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQG7u_ZQ8_-AKQ/profile-displaybackgroundimage-shrink_350_1400/0/1658860042592?e=1671062400&v=beta&t=1FMjPMGqNmy3HPhVnha4hcDO_SIehVjvsJbTVkSukIU)]
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQG7u_ZQ8_-AKQ/profile-displaybackgroundimage-shrink_350_1400/0/1658860042592?e=1671062400&v=beta&t=1FMjPMGqNmy3HPhVnha4hcDO_SIehVjvsJbTVkSukIU)
 <h1 align="center">Hi 👋, I'm Piyush Mahajan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b76114acfea86e8cf7ca3b20b08062d3cc4c92bfb7cc9&rid=giphy.gif&ct=g">
