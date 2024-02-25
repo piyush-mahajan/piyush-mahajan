@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQG7u_ZQ8_-AKQ/profile-displaybackgroundimage-shrink_350_1400/0/1658860042592?e=1686787200&v=beta&t=p_bjUXG9kiKfJG-1NiY9jFRLMbW50uXUSpYaKjo-r3c)
+![piyush mahajan (1)](https://github.com/piyush-mahajan/piyush-mahajan/assets/98900169/77de3783-ae3e-4a5c-b6f1-fd51d296f4db)
 <h1 align="center">Hi 👋, I'm Piyush Mahajan</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b76114acfea86e8cf7ca3b20b08062d3cc4c92bfb7cc9&rid=giphy.gif&ct=g">
