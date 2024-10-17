@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-mahajan" /> </p>
 
-- 😎 Visit My Website **https://piyush-mahajan.vercel.app**
+- 😎 Visit My Website **https://piyushmahajan.vercel.app**
 
 - 🌱 I’m currently learning **NEXT.js and React Native**
 
